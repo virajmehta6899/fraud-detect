@@ -6,7 +6,7 @@ import requests
 import pandas as pd
 import plotly.graph_objects as go
 
-API_URL = "http://localhost:8001/api/v1"
+API_URL = "http://localhost:8000/api/v1"
 
 st.set_page_config(
     page_title="Fraud Detection System",
